@@ -5,6 +5,7 @@ Spin–orbit coupling (SOC) drives interesting and non-trivial phenomena in soli
 Copyright: Qiangqiang Gu,  Peking University. 
 Email:     guqq@pku.edu.cn
 
+You may also contact Shishir Kumar Pandey : shishir.kr.pandey@gmail.com
 ## Features:
 - calculate the $ab$ $initio$ SOC strength for $p$-and $d$-orbital.
 - output the SOC TB model, with basis defined in $| s_z \rangle$ basis.
