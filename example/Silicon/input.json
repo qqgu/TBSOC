@@ -1,5 +1,5 @@
 {
-    "lambdas":[0,0.10,0, 0.24],
+    "lambdas":[0,0.0300625],
     "posfile":"./POSCAR",
     "winfile":"./wannier90.win",
     "hrfile":"./wannier90_hr.dat",
@@ -8,5 +8,5 @@
     "outdir":"./",
     "EMIN":-14,
     "EMAX":10,
-    "Efermi":4.081500
+    "Efermi":6.12880
 }
